@@ -1,0 +1,15 @@
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\bin\Debug\net6.0\NumerosImpares100.exe
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\bin\Debug\net6.0\NumerosImpares100.deps.json
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\bin\Debug\net6.0\NumerosImpares100.runtimeconfig.json
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\bin\Debug\net6.0\NumerosImpares100.dll
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\bin\Debug\net6.0\NumerosImpares100.pdb
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.csproj.AssemblyReference.cache
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.AssemblyInfoInputs.cache
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.AssemblyInfo.cs
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.csproj.CoreCompileInputs.cache
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.dll
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\refint\NumerosImpares100.dll
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.pdb
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\NumerosImpares100.genruntimeconfig.cache
+C:\Users\50258\Desktop\VisualStudio\TAREAS\NumerosImpares100\NumerosImpares100\obj\Debug\net6.0\ref\NumerosImpares100.dll
